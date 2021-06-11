@@ -53,6 +53,9 @@ The  following  figure  shows  the  Iterations  vs  Precisionwhich shows us how 
 ![](images/descarga4.png)
 
 
+Finally, we  observe  that  the  support  metric  shows  us  the  number  ofimages  that  are  true  responses  for  each  model,  showing  thateach class has more than 207,000 true images for each class.
+
+![](images/descarga2.PNG)
 
 To know more about the training process you can review the colab notebook below:
 https://colab.research.google.com/drive/1N0YxZ4emkIuhMeOZQf8Cih59i8RLi_KM?authuser=2
