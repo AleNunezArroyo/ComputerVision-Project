@@ -41,3 +41,4 @@ Theseimages are read and recognized by a trained model, whichdefines the class t
 ![Computer%20Vision%20Project%20Virtual%20Whiteboard%207524d50bf82b4eedb654e1ef595ded60/Untitled%205.png](Computer%20Vision%20Project%20Virtual%20Whiteboard%207524d50bf82b4eedb654e1ef595ded60/Untitled%205.png)
 
 ![Computer%20Vision%20Project%20Virtual%20Whiteboard%207524d50bf82b4eedb654e1ef595ded60/Untitled%206.png](Computer%20Vision%20Project%20Virtual%20Whiteboard%207524d50bf82b4eedb654e1ef595ded60/Untitled%206.png)
+
