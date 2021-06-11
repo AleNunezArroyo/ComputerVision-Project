@@ -49,8 +49,15 @@ These images are read and recognized by a trained model, whichdefines the class 
 
 ![](images/Untitled%205.png)
 
+## Results of Neural Network
+
+Below you can see some predictions that the model makes regarding the classes of numbers that it has
+
 ![](images/Untitled%206.png)
 
+For the training of the characteristic classes, an increase was made in the classes ranging from 0 to 16, the following dictionary shows the prediction values ​​with their respective keys.
+
+![](images/TrainedClasses.jpeg)
 
 The  following  figure  shows  the  Iterations  vs  Precisionwhich shows us how the accuracy increases when doing moreiterations  during  the  training,  managing  to  observe  that  theprecision little by little increases its accuracy to 100
 
