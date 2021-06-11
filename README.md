@@ -5,17 +5,23 @@
 - Alejandro Núñez Arroyo
 - Raul Angel Mollocuaquira Caparicona
 
-# Abstract
+# Introduction
 
 ---
 
-The present work consists of the implementation of a hand recognition algorithm for tracing letters and numbers in a space visible to a computer camera in order to obtain a ”virtual whiteboard” and achieve a better explanation by a teacher or speaker in a video conference who needs to use a whiteboard and point with gestures while explaining the content of the ideas to be shared.
+Virtual classes and videoconferencing have become a daily topic in recent months,  largely due to the emergence of the global pandemic that forced us to have a new methodology for the study.
+
+![](images/Clase.jpg)
+
+The virtual classes were of great help, but there are some aspects that hindered the explanations in class,  for example, the tracing of numerical characters and letters,  teachers and exhibitors use the mouse to point or write on the screen, they do not have an electronic device such as a tablet with which they can write these characters, also the handwriting of each person is different, these characteristics complicate the proper understanding of what is to be transmitted.  The algorithm shown in this paper provides a solution to these problems.
+
+So the present work consists of the implementation of a hand recognition algorithm to trace letters and numbers in a space visible to a computer camera in order to obtain a "virtual whiteboard" and achieve a more intuitive explanation by a teacher or speaker in a video conference who needs to use a whiteboard while explaining the content of the ideas to be shared.
 
 ## Libraries we use
 
-![](images/OpenCV 1OpenCV.png)
-![](images/Group 2Pytorch.png)
-![](images/Group 1.png)
+![](images/OpenCV.png)
+![](images/Pytorch.png)
+![](images/Mediapipe.png)
 
 ## Dataset
 
