@@ -40,3 +40,4 @@ Theseimages are read and recognized by a trained model, whichdefines the class t
 ![](images/Untitled%205.png)
 
 ![](images/Untitled%206.png)
+
