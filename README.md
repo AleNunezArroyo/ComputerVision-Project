@@ -41,3 +41,5 @@ Theseimages are read and recognized by a trained model, whichdefines the class t
 
 ![](images/Untitled%206.png)
 
+
+To know more about the training process you can review the colab notebook below:
