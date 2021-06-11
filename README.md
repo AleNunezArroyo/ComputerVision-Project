@@ -1,10 +1,9 @@
-# Computer Vision Project:
-Virtual Whiteboard
+# Computer Vision Project: Virtual Whiteboard for online class
 
-Adrian Flores Camacho
-Andrés Saúl Bellido Gonzales
-Alejandro Núñez Arroyo
-Raul Angel Mollocuaquira Caparicona
+- Adrian Flores Camacho
+- Andrés Saúl Bellido Gonzales
+- Alejandro Núñez Arroyo
+- Raul Angel Mollocuaquira Caparicona
 
 # Abstract
 
