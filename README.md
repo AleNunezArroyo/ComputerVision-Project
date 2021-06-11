@@ -49,3 +49,4 @@ Theseimages are read and recognized by a trained model, whichdefines the class t
 
 
 To know more about the training process you can review the colab notebook below:
+https://colab.research.google.com/drive/1N0YxZ4emkIuhMeOZQf8Cih59i8RLi_KM?authuser=2
