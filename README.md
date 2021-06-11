@@ -39,7 +39,7 @@ There is the selection mode when only the index finger is extended, in this mode
 
 ## Character recognition
 
-Theseimages are read and recognized by a trained model, whichdefines the class to which the trace belongs, outputting thepredicted character.Finally, this value predicted by the model is taken as theindex of the dictionary previously generated with the classes,and finally, all these values are concatenated to be able tobe put on another canvas but as text, the result is the following:
+These images are read and recognized by a trained model, whichdefines the class to which the trace belongs, outputting thepredicted character.Finally, this value predicted by the model is taken as theindex of the dictionary previously generated with the classes,and finally, all these values are concatenated to be able tobe put on another canvas but as text, the result is the following:
 
 ![](images/Untitled%204.png)
 
