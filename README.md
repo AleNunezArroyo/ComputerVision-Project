@@ -50,3 +50,45 @@ Theseimages are read and recognized by a trained model, whichdefines the class t
 
 To know more about the training process you can review the colab notebook below:
 https://colab.research.google.com/drive/1N0YxZ4emkIuhMeOZQf8Cih59i8RLi_KM?authuser=2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##Conclusions
+In conclusion the main objectives, which are, hand gesturerecognition  and  written  text  recognition,  were  accomplished.The  challenges  that  existed  in  the  development  of  the  al-gorithm  was  to  train  and  improve  the  accuracy  of  the  textrecognition.  Also,  it  was  challenging  to  design  the  way  ofinteraction between the user and the computer because somegestures like extending all fingers could cause that the wholedrawing  will  be  erased. 
+
+##REFERENCES
+[1]  .    Anofryev    (2021,    May).    Offline    Handwritten    Text    Recogni-tion [Online]. Available:https://www.kaggle.com/alexeyanofryev/offline-handwritten-text-ocr/execution
+[2]  .  Z.  Ren,  J.  Meng,  J.  Yuan,  and  Z.  Zhang,  (2011)  Position-Free  HandGesture Recognition Using Single ShotMultiBox Detector Based NeuralNetwork [Online]. Available: https://doi.org/10.1145/2072298.2072443.
+[3]  . (2021, Apr). THE MNIST DATABASE of handwritten digits [Online].Available: http://yann.lecun.com/exdb/mnist/
+[4]  .(2021,Apr).Handwrittenmathsymbols(CROHMEdatasetdataset)[Online].Available:https://www.kaggle.com/xainano/handwrittenmathsymbols
+[5]  .  OpenCV  team  (2021,  Apr).  Open  Source  Computer  Vision  Library[Online]. Available: https://opencv.org/about/
+[6]  .   Grishchenko   I.,   Bazarevsky   V.   (2020,   Dec).   MediaPipe   Holistic—  Simultaneous  Face,  Hand  and  Pose  Prediction,  on  Device  [On-line].  Available:  https://ai.googleblog.com/2020/12/mediapipe-holistic-simultaneous-face.html
+[7]  Torch    Contributors    (2021)    TORCHVISION    [Online].    Available:https://pytorch.org/vision/stable/index.html
+[8]  .    (2021,    Apr).    handwritten-digit-recognition    [Online].    Available:https://github.com/amitrajitbose/handwritten-digit-recognition
+[9]  (2021, Apr). [Online] Available: https://colab.research.google.com/drive/1E8skjsRJRUfZHzPTQKVpG3UAiUgWNt7
+[10]  (2021, Apr). [Online] Available: https://pytorch.org/docs/stable/generated/torch.nn.LogSoftmax.htmltorch.nn.LogSoftmax
