@@ -11,6 +11,12 @@
 
 The present work consists of the implementation of a hand recognition algorithm for tracing letters and numbers in a space visible to a computer camera in order to obtain a ”virtual whiteboard” and achieve a better explanation by a teacher or speaker in a video conference who needs to use a whiteboard and point with gestures while explaining the content of the ideas to be shared.
 
+## Libraries we use
+
+![](images/OpenCV.png)
+![](images/Pytorch.jpeg)
+![](images/Mediapipe.png)
+
 ## Dataset
 
 We looked for a different dataset to MNIST which was thebasis for presenting the results in Project milestone [5], welooked for the new dataset to allow us not only to have theinformation of numbers between 0 and 9, but also to containdifferent numeric characters and letters. For this we will usethe implementation of the Handwritten math symbols dataset,which has different classes of characters.
