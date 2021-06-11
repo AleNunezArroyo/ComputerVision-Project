@@ -5,6 +5,10 @@
 - Alejandro Núñez Arroyo
 - Raul Angel Mollocuaquira Caparicona
 
+Click on the image to be redirected to the video of the project on Youtube:
+
+[![Proyecto: "Pizarra Virtual" - VISIÓN ARTIFICIAL IMT-344](https://img.youtube.com/vi/gNZLOuidODo/0.jpg)](https://www.youtube.com/watch?v=gNZLOuidODo)
+
 # Introduction
 
 ---
