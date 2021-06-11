@@ -48,33 +48,14 @@ Theseimages are read and recognized by a trained model, whichdefines the class t
 ![](images/Untitled%206.png)
 
 
+The  following  figure  shows  the  Iterations  vs  Precisionwhich shows us how the accuracy increases when doing moreiterations  during  the  training,  managing  to  observe  that  theprecision little by little increases its accuracy to 100
+
+![](images/descarga4.png)
+
+
+
 To know more about the training process you can review the colab notebook below:
 https://colab.research.google.com/drive/1N0YxZ4emkIuhMeOZQf8Cih59i8RLi_KM?authuser=2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
