@@ -25,11 +25,9 @@ So the present work consists of the implementation of a hand recognition algorit
 
 ## Dataset
 
-We looked for a different dataset to MNIST which was thebasis for presenting the results in Project milestone [5], welooked for the new dataset to allow us not only to have theinformation of numbers between 0 and 9, but also to containdifferent numeric characters and letters. For this we will usethe implementation of the Handwritten math symbols dataset,which has different classes of characters.
+We looked for a different data set to the MNIST, which was the basis for presenting the results in Project milestone, and we looked for the new data set to allow us not only to have the information of numbers between 0 and 9 but also to contain different numeric characters and letters . . For this we will use the implementation of the handwritten mathematical symbol data set, which has different character classes provided by [CROHME extractor](https://github.com/ThomasLech/CROHME_extractor). 
 
 ![](images/Untitled.png)
-
-![](images/Untitled%201.png)
 
 ## Hand detection and segmentation
 
