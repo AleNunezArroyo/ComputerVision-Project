@@ -13,9 +13,9 @@ The present work consists of the implementation of a hand recognition algorithm 
 
 ## Libraries we use
 
-![](images/OpenCV.png)
-![](images/Pytorch.jpeg)
-![](images/Mediapipe.png)
+![](images/OpenCV 1OpenCV.png)
+![](images/Group 2Pytorch.png)
+![](images/Group 1.png)
 
 ## Dataset
 
