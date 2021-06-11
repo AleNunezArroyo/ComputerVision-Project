@@ -78,10 +78,10 @@ https://colab.research.google.com/drive/1N0YxZ4emkIuhMeOZQf8Cih59i8RLi_KM?authus
 
 
 
-##Conclusions
+## Conclusions
 In conclusion the main objectives, which are, hand gesturerecognition  and  written  text  recognition,  were  accomplished.The  challenges  that  existed  in  the  development  of  the  al-gorithm  was  to  train  and  improve  the  accuracy  of  the  textrecognition.  Also,  it  was  challenging  to  design  the  way  ofinteraction between the user and the computer because somegestures like extending all fingers could cause that the wholedrawing  will  be  erased. 
 
-##REFERENCES
+## REFERENCES
 [1]  .    Anofryev    (2021,    May).    Offline    Handwritten    Text    Recogni-tion [Online]. Available:https://www.kaggle.com/alexeyanofryev/offline-handwritten-text-ocr/execution
 [2]  .  Z.  Ren,  J.  Meng,  J.  Yuan,  and  Z.  Zhang,  (2011)  Position-Free  HandGesture Recognition Using Single ShotMultiBox Detector Based NeuralNetwork [Online]. Available: https://doi.org/10.1145/2072298.2072443.
 [3]  . (2021, Apr). THE MNIST DATABASE of handwritten digits [Online].Available: http://yann.lecun.com/exdb/mnist/
