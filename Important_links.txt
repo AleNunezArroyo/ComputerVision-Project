@@ -1,0 +1,16 @@
+Important links.- 
+
+Github Repository:
+https://github.com/AlejandroNunezArroyo/ComputerVision-Project
+
+Principal code (Trained model, .py code, character recognition by camera):
+https://github.com/AlejandroNunezArroyo/ComputerVision-Project/tree/main/Final_Code 
+
+Google Colab file with documentation:
+https://github.com/AlejandroNunezArroyo/ComputerVision-Project/blob/main/VirtualWhiteboard.ipynb
+
+Video on YouTube:
+https://www.youtube.com/watch?v=gNZLOuidODo
+
+Final report:
+https://github.com/AlejandroNunezArroyo/ComputerVision-Project/blob/main/Documentation.pdf
